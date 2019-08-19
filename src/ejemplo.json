@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Aliens",
+        "director": "James Cameron",
+        "año": "1996",
+        "rating": "8,5"
+    },
+    {
+        "id": 2,
+        "title": "007",
+        "director": "James Boom",
+        "año": "2000",
+        "rating": "10"
+    }
+
+]
